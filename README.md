@@ -127,6 +127,10 @@ All your task data stays in your browser’s localStorage. Nothing is sent to an
 - Tags/labels
 - Drag and drop reordering
 
+## Live Demo
+
+- Check out the live app here: [https://daanyaal5.github.io/to-do_app_list/](https://daanyaal5.github.io/to-do_app_list/)
+
 ## License
 
 Free to use and modify as you wish!
